@@ -5,6 +5,14 @@
 
 Windash is an innovative React Native application designed to monitor and track household energy consumption. By providing real-time data insights, predictive analytics, and interactive reports, Windash empowers users to optimize their energy usage, save costs, and contribute to a greener environment.
 
+## Contributors - TeamOne
+ - Abhinav
+ - Shanmukh Valluru
+ - Sunaya Dahal
+ - Arthur Lin
+ - Wilson Nguyen
+ - Alex Pitman
+
 ## Table of Contents
 
 1. [Features](#features)
